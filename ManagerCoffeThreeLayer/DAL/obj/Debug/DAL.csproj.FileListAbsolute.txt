@@ -1,0 +1,9 @@
+D:\ManagerCoffeMVC\DAL\bin\Debug\DAL.dll
+D:\ManagerCoffeMVC\DAL\bin\Debug\DAL.pdb
+D:\ManagerCoffeMVC\DAL\bin\Debug\DTO.dll
+D:\ManagerCoffeMVC\DAL\bin\Debug\DTO.pdb
+D:\ManagerCoffeMVC\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\ManagerCoffeMVC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ManagerCoffeMVC\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ManagerCoffeMVC\DAL\obj\Debug\DAL.dll
+D:\ManagerCoffeMVC\DAL\obj\Debug\DAL.pdb

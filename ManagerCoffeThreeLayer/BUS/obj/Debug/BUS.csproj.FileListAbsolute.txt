@@ -1,0 +1,11 @@
+D:\ManagerCoffeMVC\BUS\bin\Debug\BUS.dll
+D:\ManagerCoffeMVC\BUS\bin\Debug\BUS.pdb
+D:\ManagerCoffeMVC\BUS\bin\Debug\DAL.dll
+D:\ManagerCoffeMVC\BUS\bin\Debug\DTO.dll
+D:\ManagerCoffeMVC\BUS\bin\Debug\DAL.pdb
+D:\ManagerCoffeMVC\BUS\bin\Debug\DTO.pdb
+D:\ManagerCoffeMVC\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\ManagerCoffeMVC\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\ManagerCoffeMVC\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\ManagerCoffeMVC\BUS\obj\Debug\BUS.dll
+D:\ManagerCoffeMVC\BUS\obj\Debug\BUS.pdb
